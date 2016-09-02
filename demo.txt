@@ -4,4 +4,4 @@ hello master v1.2
 hello branch dev
 edit by 5
 edit by 4
-edit in webstrom
+edit in WebStorm
